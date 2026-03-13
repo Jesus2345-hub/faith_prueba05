@@ -1,0 +1,32 @@
+# ===== ARCHIVOS COMPILADOS =====
+# Carpeta de compilación de Visual Studio (x64, Debug, Release)
+x64/
+Debug/
+Release/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.lib
+*.dll
+*.exp
+
+# ===== ARCHIVOS DE VISUAL STUDIO =====
+# Carpeta de configuración de usuario
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.user
+
+# ===== ARCHIVOS TEMPORALES =====
+*.log
+*.tmp
+*.cache
+*.tlog
+
+# ===== ARCHIVOS DE MAC =====
+.DS_Store
+Thumbs.db
